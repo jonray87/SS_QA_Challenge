@@ -1,7 +1,5 @@
 var xhr = new XMLHttpRequest();
 
-var xhr = new XMLHttpRequest();
-
 xhr.open("GET", "https://shapeshift.io/rate/btc_ltc", false);
 xhr.send();
 
